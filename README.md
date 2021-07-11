@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramiro19&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Tails" height="150" width="150" src="https://64.media.tumblr.com/4c181c331cdf3091e44e51fedd76099c/tumblr_n8vo79mly91sdeenco1_640.gifv">
+  <img align="left" alt="Tails" height="150" width="150" src="https://64.media.tumblr.com/4c181c331cdf3091e44e51fedd76099c/tumblr_n8vo79mly91sdeenco1_640.gifv">
 </div>
   
   ##
